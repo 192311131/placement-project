@@ -1,7 +1,5 @@
 package Placement2;
-
 import java.util.Scanner;
-
 public class NumbersSeriesGame {
     private static int[][] series = {
         {2, 4, 6, 8, 10},
